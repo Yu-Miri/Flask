@@ -4,7 +4,7 @@
 - 빠르고 간편하게 웹 애플리케이션 개발이 가능함
 
 ### signup page
-![image](https://github.com/Yu-Miri/Flask/assets/121469490/4d5ff90e-67d9-49e2-96ee-61cdbcd51eec)
+<![image](https://github.com/Yu-Miri/Flask/assets/121469490/4d5ff90e-67d9-49e2-96ee-61cdbcd51eec)
 
 ### sql database connection
 ![image](https://github.com/Yu-Miri/Flask/assets/121469490/eb1f8d1c-b9b8-4fba-a2bf-951896fa0da5)
