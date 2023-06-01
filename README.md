@@ -1,4 +1,2 @@
-# main page
-<img width="297" alt="스크린샷 2023-05-30 오후 12 54 01" src="https://github.com/Yu-Miri/Flask/assets/121469490/5a9035e0-4535-4a05-be92-2eb01268fe3b">
-
 # signup page
+![image](https://github.com/Yu-Miri/Flask/assets/121469490/4d5ff90e-67d9-49e2-96ee-61cdbcd51eec)
