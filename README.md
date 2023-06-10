@@ -9,3 +9,9 @@
 ### sql database connection
 ![image](https://github.com/Yu-Miri/Flask/assets/121469490/eb1f8d1c-b9b8-4fba-a2bf-951896fa0da5)
 ![image](https://github.com/Yu-Miri/Flask/assets/121469490/ee2d2e49-ab3f-4111-99b4-bcbd990fdc37)
+
+### correction & delete
+![image](https://github.com/Yu-Miri/Flask/assets/121469490/74f0f79b-5572-4bc0-bdba-1650bf075f74)
+
+![image](https://github.com/Yu-Miri/Flask/assets/121469490/68bd3797-6dc0-44ae-9a53-c57016ae08ef)
+![image](https://github.com/Yu-Miri/Flask/assets/121469490/0a12230e-36c0-4cbe-8f0c-67518ca714f6)
