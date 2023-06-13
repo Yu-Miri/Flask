@@ -21,7 +21,7 @@
 
 ![스크린샷 2023-06-13 오후 12 16 46](https://github.com/Yu-Miri/Flask1/assets/121469490/88501113-3940-4d4d-840c-07c7c759db58)
 
-![image](https://github.com/Yu-Miri/Flask1/assets/121469490/43a8c1e4-7bf5-4ef4-b7f5-c3c34cf0c088)
+![image](https://github.com/Yu-Miri/Flask1/assets/121469490/e54ca195-50b0-4538-8076-94918c799719)
 
 
 ### real time with yolo v5
